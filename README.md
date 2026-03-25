@@ -1,4 +1,4 @@
-# # 👋 Hola, soy Alberto (Mac AGT)
+# # 👋 Hola, soy Alberto 
 
 💻 Estudiante de Ingeniería en Desarrollo de Software
 🚀 Apasionado por la tecnología y la creación de proyectos
